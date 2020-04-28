@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\amgad\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\amgad\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AM-BSSD5150-HW11.1-master.-76031792.00" t="ExcludeRecursive" />
+    <e p="C:\Users\amgad\Desktop\AM-BSSD5650HW11.1\AM-BSSD5150-HW11.1-master" t="IncludeRecursive">
+      <e p="AM-BSSD5150-HW11.1-master.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Script" t="Include">
+          <e p="LozdScoreScript.cs" t="Include" />
+          <e p="MenuController.cs" t="Include" />
+          <e p="ProjectileController.cs" t="Include" />
+          <e p="ScoreController.cs" t="Include" />
+          <e p="ShipController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
